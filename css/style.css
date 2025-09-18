@@ -56,6 +56,7 @@ a {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  text-decoration: underline;
 }
 a:hover, a:active, a:focus {
   color: #cf6706;
